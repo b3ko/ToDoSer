@@ -1,1 +1,1 @@
-this is a simple to do list that uses local storage in your browser.
+this is a simple *To Do* list that uses local storage in your brow*Ser*.
